@@ -1,0 +1,79 @@
+
+*{
+    background-color: lightgrey;
+    padding: 10px;
+}
+#faraz{
+   font-size: 200%;
+   text-align-last:center;
+   color: firebrick;
+}
+h1{
+    background: white;
+    padding: 10px;
+    font-family: serif ;
+}
+div p{
+    margin: 0%;
+    color: floralwhite;
+}
+.p1{
+    background:purple;
+    opacity:1.0;   
+}
+.p2{
+    background:purple;
+    opacity:0.9;   
+}.p3{
+    background:purple;
+    opacity:0.8;   
+}.p4{
+    background:purple;
+    opacity:0.7;   
+}
+.p5{
+    background:purple;
+    opacity:0.6;   
+}.p6{
+    background:purple;
+    opacity:0.5;   
+}.p7{
+    background:purple;
+    opacity:0.4;   
+}
+.p8{
+    background: orangered;
+}
+.p9{
+    background:darkcyan;
+    opacity: 0.2;
+}
+.p10{
+    background:darkcyan;
+    opacity: 0.3;
+}
+.p11{
+    background:darkcyan;
+    opacity: 0.4;
+}
+.p12{
+    background:darkcyan;
+    opacity: 0.6;
+}
+.p122{
+    background:darkcyan;
+    opacity: 0.5;
+}
+.p13{
+    background:darkcyan;
+    opacity: 0.7;
+}
+.p14{
+    background:darkcyan;
+    opacity: 0.8;
+}
+.p15{
+    background:darkcyan;
+    opacity: 1.0;
+}
+
